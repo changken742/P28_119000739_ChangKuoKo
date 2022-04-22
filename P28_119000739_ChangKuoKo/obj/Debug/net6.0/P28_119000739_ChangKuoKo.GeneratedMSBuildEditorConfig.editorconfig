@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = P28_119000739_ChangKuoKo
+build_property.RootNamespace = P28_119000739_ChangKuoKo
+build_property.ProjectDir = d:\P28_119000739_ChangKuoKo\P28_119000739_ChangKuoKo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\P28_119000739_ChangKuoKo\P28_119000739_ChangKuoKo
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/comment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29tbWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/comment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29tbWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/comment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29tbWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/comment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29tbWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29tbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/News/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/News/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/News/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/News/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/P28_119000739_ChangKuoKo/P28_119000739_ChangKuoKo/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hq3v54arie

@@ -1,0 +1,68 @@
+using Microsoft.EntityFrameworkCore;
+
+
+namespace P28_119000739_ChangKuoKo.Models
+{
+    public static class SeedDataNews
+    {
+        public static void Initialize(IServiceProvider serviceProvider)
+        {
+            using (var context = new RazorPagesMovieContext(
+                serviceProvider.GetRequiredService<
+                    DbContextOptions<RazorPagesMovieContext>>()))
+            {
+                if (context == null || context.News == null)
+                {
+                    throw new ArgumentNullException("Null RazorPagesMovieContext");
+                }
+
+                // Look for any movies.
+                if (context.News.Any())
+                {
+                    return;   // DB has been seeded
+                }
+
+                context.News.AddRange(
+                    new News
+                    {
+                    
+                        Title = "When Harry Met Sally",
+                        ImageUrl = "Hinh",
+                        Content = "Romantic Comedy",
+                        Author = "ChangKuoKo",
+                        CreatedAt = "asd"
+                        
+                    },
+
+                    new News
+                    {
+                        Title = "When Harry Met Sally",
+                        ImageUrl = "Hinh",
+                        Content = "Romantic Comedy",
+                        Author = "ChangKuoKo",
+                        CreatedAt = "asd"
+                    },
+
+                    new News
+                    {
+                        Title = "When Harry Met Sally",
+                        ImageUrl = "Hinh",
+                        Content = "Romantic Comedy",
+                        Author = "ChangKuoKo",
+                        CreatedAt = "asd"
+                    },
+
+                    new News
+                    {
+                        Title = "When Harry Met Sally",
+                        ImageUrl = "Hinh",
+                        Content = "Romantic Comedy",
+                        Author = "ChangKuoKo",
+                        CreatedAt = "asd"
+                    }
+                );
+                context.SaveChanges();
+            }
+        }
+    }
+}
